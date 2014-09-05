@@ -1,0 +1,2059 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="weight" />
+  <key attr.name="topics" attr.type="string" for="edge" id="topics" />
+  <graph edgedefault="undirected">
+    <node id="pollen" />
+    <node id="aquatic" />
+    <node id="graminea" />
+    <node id="taxonomy" />
+    <node id="results" />
+    <node id="forests" />
+    <node id="selection" />
+    <node id="plantago" />
+    <node id="taxonomic" />
+    <node id="lake" />
+    <node id="black" />
+    <node id="samples" />
+    <node id="crosses" />
+    <node id="effects" />
+    <node id="communities" />
+    <node id="botanical" />
+    <node id="elevations" />
+    <node id="alpine" />
+    <node id="evolution" />
+    <node id="university" />
+    <node id="found" />
+    <node id="ecotypes" />
+    <node id="ecology" />
+    <node id="habitat" />
+    <node id="society" />
+    <node id="growth" />
+    <node id="flower" />
+    <node id="leaf" />
+    <node id="stands" />
+    <node id="robert" />
+    <node id="selected" />
+    <node id="sites" />
+    <node id="research" />
+    <node id="state" />
+    <node id="experiment" />
+    <node id="august" />
+    <node id="water" />
+    <node id="flowering" />
+    <node id="great" />
+    <node id="leaves" />
+    <node id="british" />
+    <node id="range" />
+    <node id="seeds" />
+    <node id="genus" />
+    <node id="studies" />
+    <node id="south" />
+    <node id="botany" />
+    <node id="characters" />
+    <node id="classification" />
+    <node id="number" />
+    <node id="community" />
+    <node id="coastal" />
+    <node id="cultivated" />
+    <node id="temperature" />
+    <node id="genetic" />
+    <node id="erect" />
+    <node id="tropical" />
+    <node id="ecologists" />
+    <node id="rates" />
+    <node id="subsp" />
+    <node id="white" />
+    <node id="john" />
+    <node id="north" />
+    <node id="populations" />
+    <node id="differences" />
+    <node id="flowers" />
+    <node id="population" />
+    <node id="plants" />
+    <node id="flora" />
+    <node id="room" />
+    <node id="reproductive" />
+    <node id="science" />
+    <node id="work" />
+    <node id="temperatures" />
+    <node id="growing" />
+    <node id="distribution" />
+    <node id="prostrate" />
+    <node id="root" />
+    <node id="history" />
+    <node id="ecotype" />
+    <node id="soil" />
+    <node id="sample" />
+    <node id="soils" />
+    <node id="seed" />
+    <node id="numbers" />
+    <node id="spruce" />
+    <node id="species" />
+    <node id="chromosome" />
+    <node id="jour" />
+    <node id="american" />
+    <node id="book" />
+    <node id="forest" />
+    <node id="vegetation" />
+    <node id="development" />
+    <node id="plant" />
+    <node id="effect" />
+    <node id="variation" />
+    <node id="william" />
+    <node id="ecological" />
+    <node id="important" />
+    <node id="lolium" />
+    <node id="types" />
+    <node id="lawn" />
+    <node id="gene" />
+    <node id="light" />
+    <edge source="pollen" target="crosses">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000997195387971</data>
+    </edge>
+    <edge source="pollen" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00123247117482</data>
+    </edge>
+    <edge source="pollen" target="numbers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00100031162356</data>
+    </edge>
+    <edge source="pollen" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00100342785915</data>
+    </edge>
+    <edge source="pollen" target="genus">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000994079152384</data>
+    </edge>
+    <edge source="pollen" target="flowers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000995637270178</data>
+    </edge>
+    <edge source="pollen" target="species">
+      <data key="topics">[13]</data>
+      <data key="weight">0.001336865067</data>
+    </edge>
+    <edge source="pollen" target="chromosome">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00112496104706</data>
+    </edge>
+    <edge source="aquatic" target="plants">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000693330957895</data>
+    </edge>
+    <edge source="aquatic" target="graminea">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000528534948631</data>
+    </edge>
+    <edge source="aquatic" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00123671239385</data>
+    </edge>
+    <edge source="aquatic" target="lake">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000628006413683</data>
+    </edge>
+    <edge source="aquatic" target="water">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000991745353049</data>
+    </edge>
+    <edge source="aquatic" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00070372349902</data>
+    </edge>
+    <edge source="aquatic" target="growth">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000546350733416</data>
+    </edge>
+    <edge source="aquatic" target="distribution">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000625037116218</data>
+    </edge>
+    <edge source="aquatic" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000622067818754</data>
+    </edge>
+    <edge source="graminea" target="plants">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000711146742681</data>
+    </edge>
+    <edge source="graminea" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00125452817863</data>
+    </edge>
+    <edge source="graminea" target="lake">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000645822198468</data>
+    </edge>
+    <edge source="graminea" target="water">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00100956113783</data>
+    </edge>
+    <edge source="graminea" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000721539283805</data>
+    </edge>
+    <edge source="graminea" target="growth">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000564166518202</data>
+    </edge>
+    <edge source="graminea" target="distribution">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000642852901004</data>
+    </edge>
+    <edge source="graminea" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000639883603539</data>
+    </edge>
+    <edge source="taxonomy" target="botany">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000765006930376</data>
+    </edge>
+    <edge source="taxonomy" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.00115950527775</data>
+    </edge>
+    <edge source="taxonomy" target="classification">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000746348224757</data>
+    </edge>
+    <edge source="taxonomy" target="studies">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000802324341614</data>
+    </edge>
+    <edge source="taxonomy" target="evolution">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000822760066816</data>
+    </edge>
+    <edge source="taxonomy" target="taxonomic">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000820094537442</data>
+    </edge>
+    <edge source="taxonomy" target="botanical">
+      <data key="topics">[12]</data>
+      <data key="weight">0.00081920602765</data>
+    </edge>
+    <edge source="taxonomy" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000778334577247</data>
+    </edge>
+    <edge source="results" target="selection">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000877171459417</data>
+    </edge>
+    <edge source="results" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000575375404848</data>
+    </edge>
+    <edge source="results" target="selected">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000575375404848</data>
+    </edge>
+    <edge source="results" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000637942879576</data>
+    </edge>
+    <edge source="results" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000668613210325</data>
+    </edge>
+    <edge source="results" target="range">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000586416723918</data>
+    </edge>
+    <edge source="results" target="experiment">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000631808813426</data>
+    </edge>
+    <edge source="results" target="samples">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000884532338797</data>
+    </edge>
+    <edge source="results" target="flowering">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000568014525469</data>
+    </edge>
+    <edge source="forests" target="stands">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000839398447867</data>
+    </edge>
+    <edge source="forests" target="vegetation">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000895693433592</data>
+    </edge>
+    <edge source="forests" target="elevations">
+      <data key="topics">[14]</data>
+      <data key="weight">0.00072379267361</data>
+    </edge>
+    <edge source="forests" target="forest">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000858498532309</data>
+    </edge>
+    <edge source="forests" target="species">
+      <data key="topics">[14]</data>
+      <data key="weight">0.00123446861555</data>
+    </edge>
+    <edge source="forests" target="types">
+      <data key="topics">[14]</data>
+      <data key="weight">0.00072379267361</data>
+    </edge>
+    <edge source="selection" target="evolution">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000815132197722</data>
+    </edge>
+    <edge source="selection" target="samples">
+      <data key="topics">[15]</data>
+      <data key="weight">0.00112866817156</data>
+    </edge>
+    <edge source="selection" target="reproductive">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000741979308183</data>
+    </edge>
+    <edge source="selection" target="populations">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000942278886683</data>
+    </edge>
+    <edge source="selection" target="selected">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000819511237609</data>
+    </edge>
+    <edge source="selection" target="range">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000830552556679</data>
+    </edge>
+    <edge source="selection" target="variation">
+      <data key="topics">[0, 15]</data>
+      <data key="weight">0.00152042476034</data>
+    </edge>
+    <edge source="selection" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000912749043086</data>
+    </edge>
+    <edge source="selection" target="genetic">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00107813425297</data>
+    </edge>
+    <edge source="selection" target="experiment">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000875944646187</data>
+    </edge>
+    <edge source="selection" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000819511237609</data>
+    </edge>
+    <edge source="selection" target="flowering">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000812150358229</data>
+    </edge>
+    <edge source="selection" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000714982408472</data>
+    </edge>
+    <edge source="selection" target="population">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000956212770404</data>
+    </edge>
+    <edge source="plantago" target="plants">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00151739844288</data>
+    </edge>
+    <edge source="plantago" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00063953180446</data>
+    </edge>
+    <edge source="plantago" target="flower">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000560086859806</data>
+    </edge>
+    <edge source="plantago" target="experiment">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000546846035697</data>
+    </edge>
+    <edge source="plantago" target="habitat">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000548170118108</data>
+    </edge>
+    <edge source="plantago" target="populations">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000647476298925</data>
+    </edge>
+    <edge source="plantago" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000644828134103</data>
+    </edge>
+    <edge source="plantago" target="erect">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000526984799534</data>
+    </edge>
+    <edge source="plantago" target="growth">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000709708172237</data>
+    </edge>
+    <edge source="plantago" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000552142365341</data>
+    </edge>
+    <edge source="taxonomic" target="botany">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000630841951878</data>
+    </edge>
+    <edge source="taxonomic" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.00102534029925</data>
+    </edge>
+    <edge source="taxonomic" target="classification">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000612183246259</data>
+    </edge>
+    <edge source="taxonomic" target="evolution">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000688595088318</data>
+    </edge>
+    <edge source="taxonomic" target="studies">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000668159363116</data>
+    </edge>
+    <edge source="taxonomic" target="botanical">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000685041049152</data>
+    </edge>
+    <edge source="taxonomic" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000644169598749</data>
+    </edge>
+    <edge source="lake" target="plants">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000810618207732</data>
+    </edge>
+    <edge source="lake" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00135399964368</data>
+    </edge>
+    <edge source="lake" target="water">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00110903260289</data>
+    </edge>
+    <edge source="lake" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000821010748857</data>
+    </edge>
+    <edge source="lake" target="growth">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000663637983253</data>
+    </edge>
+    <edge source="lake" target="distribution">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000742324366055</data>
+    </edge>
+    <edge source="lake" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000739355068591</data>
+    </edge>
+    <edge source="black" target="flora">
+      <data key="topics">[6]</data>
+      <data key="weight">0.0006067274442</data>
+    </edge>
+    <edge source="black" target="north">
+      <data key="topics">[6]</data>
+      <data key="weight">0.0006067274442</data>
+    </edge>
+    <edge source="black" target="stands">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000624017604527</data>
+    </edge>
+    <edge source="black" target="british">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000680603583779</data>
+    </edge>
+    <edge source="black" target="spruce">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00112700408677</data>
+    </edge>
+    <edge source="black" target="white">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000848789688777</data>
+    </edge>
+    <edge source="black" target="species">
+      <data key="topics">[6]</data>
+      <data key="weight">0.0010122602955</data>
+    </edge>
+    <edge source="samples" target="selected">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000826872116989</data>
+    </edge>
+    <edge source="samples" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000889439591717</data>
+    </edge>
+    <edge source="samples" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000920109922465</data>
+    </edge>
+    <edge source="samples" target="range">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000837913436058</data>
+    </edge>
+    <edge source="samples" target="experiment">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000883305525567</data>
+    </edge>
+    <edge source="samples" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000826872116989</data>
+    </edge>
+    <edge source="samples" target="flowering">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000819511237609</data>
+    </edge>
+    <edge source="crosses" target="genus">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000507946400748</data>
+    </edge>
+    <edge source="crosses" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000746338423185</data>
+    </edge>
+    <edge source="crosses" target="numbers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000514178871923</data>
+    </edge>
+    <edge source="crosses" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00051729510751</data>
+    </edge>
+    <edge source="crosses" target="flowers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000509504518542</data>
+    </edge>
+    <edge source="crosses" target="species">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000850732315363</data>
+    </edge>
+    <edge source="crosses" target="chromosome">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000638828295419</data>
+    </edge>
+    <edge source="effects" target="development">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000530458590007</data>
+    </edge>
+    <edge source="effects" target="plant">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000533091138841</data>
+    </edge>
+    <edge source="effects" target="leaf">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000970094245248</data>
+    </edge>
+    <edge source="effects" target="leaves">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000540988785342</data>
+    </edge>
+    <edge source="effects" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000538356236508</data>
+    </edge>
+    <edge source="effects" target="water">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000551518980677</data>
+    </edge>
+    <edge source="effects" target="growth">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000710788185121</data>
+    </edge>
+    <edge source="effects" target="root">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000635760543358</data>
+    </edge>
+    <edge source="communities" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00100089632507</data>
+    </edge>
+    <edge source="communities" target="ecology">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00202544567274</data>
+    </edge>
+    <edge source="communities" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00135942635196</data>
+    </edge>
+    <edge source="communities" target="community">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000597550044816</data>
+    </edge>
+    <edge source="communities" target="tropical">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000883876107957</data>
+    </edge>
+    <edge source="communities" target="ecologists">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000571407230356</data>
+    </edge>
+    <edge source="communities" target="forest">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00103077382731</data>
+    </edge>
+    <edge source="communities" target="studies">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000689672343392</data>
+    </edge>
+    <edge source="communities" target="species">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000699631510806</data>
+    </edge>
+    <edge source="communities" target="vegetation">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00061497858779</data>
+    </edge>
+    <edge source="botanical" target="botany">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000629953442087</data>
+    </edge>
+    <edge source="botanical" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.00102445178946</data>
+    </edge>
+    <edge source="botanical" target="classification">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000611294736468</data>
+    </edge>
+    <edge source="botanical" target="evolution">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000687706578526</data>
+    </edge>
+    <edge source="botanical" target="studies">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000667270853325</data>
+    </edge>
+    <edge source="botanical" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000643281088958</data>
+    </edge>
+    <edge source="elevations" target="stands">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000682576701918</data>
+    </edge>
+    <edge source="elevations" target="forest">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000701676786361</data>
+    </edge>
+    <edge source="elevations" target="types">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000566970927661</data>
+    </edge>
+    <edge source="elevations" target="species">
+      <data key="topics">[14]</data>
+      <data key="weight">0.0010776468696</data>
+    </edge>
+    <edge source="elevations" target="vegetation">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000738871687643</data>
+    </edge>
+    <edge source="alpine" target="plants">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000952611218569</data>
+    </edge>
+    <edge source="alpine" target="light">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000593165699549</data>
+    </edge>
+    <edge source="alpine" target="rates">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000789813023856</data>
+    </edge>
+    <edge source="alpine" target="temperatures">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000701160541586</data>
+    </edge>
+    <edge source="alpine" target="temperature">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000949387491941</data>
+    </edge>
+    <edge source="evolution" target="botany">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000633507481252</data>
+    </edge>
+    <edge source="evolution" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.00102800582862</data>
+    </edge>
+    <edge source="evolution" target="classification">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000614848775634</data>
+    </edge>
+    <edge source="evolution" target="reproductive">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00087783467447</data>
+    </edge>
+    <edge source="evolution" target="populations">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00107813425297</data>
+    </edge>
+    <edge source="evolution" target="variation">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000774201414289</data>
+    </edge>
+    <edge source="evolution" target="genetic">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00121398961926</data>
+    </edge>
+    <edge source="evolution" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000646835128123</data>
+    </edge>
+    <edge source="evolution" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000850837774759</data>
+    </edge>
+    <edge source="evolution" target="studies">
+      <data key="topics">[12]</data>
+      <data key="weight">0.00067082489249</data>
+    </edge>
+    <edge source="evolution" target="population">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00109206813669</data>
+    </edge>
+    <edge source="university" target="august">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00180462538352</data>
+    </edge>
+    <edge source="university" target="robert">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00178070667414</data>
+    </edge>
+    <edge source="university" target="state">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00193576589357</data>
+    </edge>
+    <edge source="university" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00176091188018</data>
+    </edge>
+    <edge source="university" target="society">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00215103427798</data>
+    </edge>
+    <edge source="university" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00192339414734</data>
+    </edge>
+    <edge source="university" target="john">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00176338622942</data>
+    </edge>
+    <edge source="university" target="room">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00176668536175</data>
+    </edge>
+    <edge source="found" target="plants">
+      <data key="topics">[5]</data>
+      <data key="weight">0.000997749821008</data>
+    </edge>
+    <edge source="found" target="number">
+      <data key="topics">[5]</data>
+      <data key="weight">0.000648460673008</data>
+    </edge>
+    <edge source="found" target="species">
+      <data key="topics">[5]</data>
+      <data key="weight">0.00229620537997</data>
+    </edge>
+    <edge source="ecotypes" target="ecotype">
+      <data key="topics">[9]</data>
+      <data key="weight">0.000519960773097</data>
+    </edge>
+    <edge source="ecotypes" target="cultivated">
+      <data key="topics">[9]</data>
+      <data key="weight">0.000554692926899</data>
+    </edge>
+    <edge source="ecology" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00240140424261</data>
+    </edge>
+    <edge source="ecology" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.0027599342695</data>
+    </edge>
+    <edge source="ecology" target="community">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00199805796235</data>
+    </edge>
+    <edge source="ecology" target="tropical">
+      <data key="topics">[10]</data>
+      <data key="weight">0.0022843840255</data>
+    </edge>
+    <edge source="ecology" target="ecologists">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00197191514789</data>
+    </edge>
+    <edge source="ecology" target="forest">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00243128174485</data>
+    </edge>
+    <edge source="ecology" target="studies">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00209018026093</data>
+    </edge>
+    <edge source="ecology" target="species">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00210013942834</data>
+    </edge>
+    <edge source="ecology" target="vegetation">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00201548650533</data>
+    </edge>
+    <edge source="habitat" target="plants">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00151475027806</data>
+    </edge>
+    <edge source="habitat" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000636883639638</data>
+    </edge>
+    <edge source="habitat" target="flower">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000557438694984</data>
+    </edge>
+    <edge source="habitat" target="populations">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000644828134103</data>
+    </edge>
+    <edge source="habitat" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000642179969281</data>
+    </edge>
+    <edge source="habitat" target="erect">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000524336634712</data>
+    </edge>
+    <edge source="habitat" target="experiment">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000544197870875</data>
+    </edge>
+    <edge source="habitat" target="growth">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000707060007415</data>
+    </edge>
+    <edge source="habitat" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000549494200519</data>
+    </edge>
+    <edge source="society" target="august">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000950150110521</data>
+    </edge>
+    <edge source="society" target="robert">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000926231401141</data>
+    </edge>
+    <edge source="society" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00106891887434</data>
+    </edge>
+    <edge source="society" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000906436607172</data>
+    </edge>
+    <edge source="society" target="state">
+      <data key="topics">[7]</data>
+      <data key="weight">0.00108129062057</data>
+    </edge>
+    <edge source="society" target="john">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000908910956418</data>
+    </edge>
+    <edge source="society" target="room">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000912210088747</data>
+    </edge>
+    <edge source="growth" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00127234396342</data>
+    </edge>
+    <edge source="growth" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000739355068591</data>
+    </edge>
+    <edge source="growth" target="seed">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000671295734298</data>
+    </edge>
+    <edge source="growth" target="flower">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000718976749113</data>
+    </edge>
+    <edge source="growth" target="leaf">
+      <data key="topics">[11]</data>
+      <data key="weight">0.00114647501711</data>
+    </edge>
+    <edge source="growth" target="temperature">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000619097331812</data>
+    </edge>
+    <edge source="growth" target="erect">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000685874688841</data>
+    </edge>
+    <edge source="growth" target="experiment">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000705735925004</data>
+    </edge>
+    <edge source="growth" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000657699388325</data>
+    </edge>
+    <edge source="growth" target="development">
+      <data key="topics">[11]</data>
+      <data key="weight">0.00070683936187</data>
+    </edge>
+    <edge source="growth" target="plant">
+      <data key="topics">[11, 17]</data>
+      <data key="weight">0.00151318993411</data>
+    </edge>
+    <edge source="growth" target="populations">
+      <data key="topics">[17, 19]</data>
+      <data key="weight">0.00162151100845</data>
+    </edge>
+    <edge source="growth" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000714737008372</data>
+    </edge>
+    <edge source="growth" target="water">
+      <data key="topics">[11, 16]</data>
+      <data key="weight">0.00175527667516</data>
+    </edge>
+    <edge source="growth" target="population">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000693146228362</data>
+    </edge>
+    <edge source="growth" target="plants">
+      <data key="topics">[16, 17]</data>
+      <data key="weight">0.00240525085965</data>
+    </edge>
+    <edge source="growth" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000798421693766</data>
+    </edge>
+    <edge source="growth" target="leaves">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000717369557205</data>
+    </edge>
+    <edge source="growth" target="seeds">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000620311248149</data>
+    </edge>
+    <edge source="growth" target="growing">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000639126951371</data>
+    </edge>
+    <edge source="growth" target="distribution">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000660668685789</data>
+    </edge>
+    <edge source="growth" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000711032254648</data>
+    </edge>
+    <edge source="growth" target="root">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000812141315221</data>
+    </edge>
+    <edge source="flower" target="plants">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00152666701976</data>
+    </edge>
+    <edge source="flower" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000654096710979</data>
+    </edge>
+    <edge source="flower" target="experiment">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000556114612573</data>
+    </edge>
+    <edge source="flower" target="populations">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000656744875801</data>
+    </edge>
+    <edge source="flower" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000648800381336</data>
+    </edge>
+    <edge source="flower" target="erect">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00053625337641</data>
+    </edge>
+    <edge source="flower" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000561410942217</data>
+    </edge>
+    <edge source="leaf" target="development">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000966145421998</data>
+    </edge>
+    <edge source="leaf" target="plant">
+      <data key="topics">[4, 11]</data>
+      <data key="weight">0.00168363932653</data>
+    </edge>
+    <edge source="leaf" target="populations">
+      <data key="topics">[4]</data>
+      <data key="weight">0.00133495507865</data>
+    </edge>
+    <edge source="leaf" target="leaves">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000976675617333</data>
+    </edge>
+    <edge source="leaf" target="differences">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000787989135301</data>
+    </edge>
+    <edge source="leaf" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000974043068499</data>
+    </edge>
+    <edge source="leaf" target="variation">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000623824732114</data>
+    </edge>
+    <edge source="leaf" target="sites">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000638002566934</data>
+    </edge>
+    <edge source="leaf" target="water">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000987205812668</data>
+    </edge>
+    <edge source="leaf" target="characters">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000623078530281</data>
+    </edge>
+    <edge source="leaf" target="root">
+      <data key="topics">[11]</data>
+      <data key="weight">0.00107144737535</data>
+    </edge>
+    <edge source="leaf" target="population">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000885741575381</data>
+    </edge>
+    <edge source="stands" target="flora">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000554856963219</data>
+    </edge>
+    <edge source="stands" target="north">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000554856963219</data>
+    </edge>
+    <edge source="stands" target="vegetation">
+      <data key="topics">[14]</data>
+      <data key="weight">0.0008544774619</data>
+    </edge>
+    <edge source="stands" target="british">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000628733102798</data>
+    </edge>
+    <edge source="stands" target="forest">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000817282560618</data>
+    </edge>
+    <edge source="stands" target="spruce">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00107513360578</data>
+    </edge>
+    <edge source="stands" target="types">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000682576701918</data>
+    </edge>
+    <edge source="stands" target="white">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000796919207796</data>
+    </edge>
+    <edge source="stands" target="species">
+      <data key="topics">[6, 14]</data>
+      <data key="weight">0.00215364245838</data>
+    </edge>
+    <edge source="robert" target="room">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000541882484906</data>
+    </edge>
+    <edge source="robert" target="state">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000710963016727</data>
+    </edge>
+    <edge source="robert" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000536109003332</data>
+    </edge>
+    <edge source="robert" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000698591270496</data>
+    </edge>
+    <edge source="robert" target="john">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000538583352578</data>
+    </edge>
+    <edge source="robert" target="august">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000579822506681</data>
+    </edge>
+    <edge source="selected" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000580282657768</data>
+    </edge>
+    <edge source="selected" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000610952988517</data>
+    </edge>
+    <edge source="selected" target="range">
+      <data key="topics">[15]</data>
+      <data key="weight">0.00052875650211</data>
+    </edge>
+    <edge source="selected" target="experiment">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000574148591618</data>
+    </edge>
+    <edge source="selected" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000517715183041</data>
+    </edge>
+    <edge source="selected" target="flowering">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000510354303661</data>
+    </edge>
+    <edge source="sites" target="plant">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000638002566934</data>
+    </edge>
+    <edge source="sites" target="populations">
+      <data key="topics">[4]</data>
+      <data key="weight">0.00125809628988</data>
+    </edge>
+    <edge source="sites" target="differences">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000711130346536</data>
+    </edge>
+    <edge source="sites" target="variation">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000546965943348</data>
+    </edge>
+    <edge source="sites" target="characters">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000546219741516</data>
+    </edge>
+    <edge source="sites" target="population">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000808882786616</data>
+    </edge>
+    <edge source="research" target="science">
+      <data key="topics">[18]</data>
+      <data key="weight">0.00106512583104</data>
+    </edge>
+    <edge source="research" target="book">
+      <data key="topics">[18]</data>
+      <data key="weight">0.000920672491211</data>
+    </edge>
+    <edge source="state" target="room">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000696941704332</data>
+    </edge>
+    <edge source="state" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000691168222757</data>
+    </edge>
+    <edge source="state" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000853650489921</data>
+    </edge>
+    <edge source="state" target="john">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000693642572004</data>
+    </edge>
+    <edge source="state" target="august">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000734881726106</data>
+    </edge>
+    <edge source="experiment" target="plants">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00151342619565</data>
+    </edge>
+    <edge source="experiment" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00064085588687</data>
+    </edge>
+    <edge source="experiment" target="populations">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000643504051692</data>
+    </edge>
+    <edge source="experiment" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000635559557227</data>
+    </edge>
+    <edge source="experiment" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000636716066346</data>
+    </edge>
+    <edge source="experiment" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000667386397095</data>
+    </edge>
+    <edge source="experiment" target="range">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000585189910688</data>
+    </edge>
+    <edge source="experiment" target="erect">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000523012552301</data>
+    </edge>
+    <edge source="experiment" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000574148591618</data>
+    </edge>
+    <edge source="experiment" target="flowering">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000566787712239</data>
+    </edge>
+    <edge source="experiment" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000548170118108</data>
+    </edge>
+    <edge source="august" target="room">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000565801194286</data>
+    </edge>
+    <edge source="august" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000722509979875</data>
+    </edge>
+    <edge source="august" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000560027712712</data>
+    </edge>
+    <edge source="august" target="john">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000562502061958</data>
+    </edge>
+    <edge source="water" target="development">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000547570157426</data>
+    </edge>
+    <edge source="water" target="plants">
+      <data key="topics">[16]</data>
+      <data key="weight">0.0011743571471</data>
+    </edge>
+    <edge source="water" target="plant">
+      <data key="topics">[11]</data>
+      <data key="weight">0.00055020270626</data>
+    </edge>
+    <edge source="water" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00171773858305</data>
+    </edge>
+    <edge source="water" target="leaves">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000558100352762</data>
+    </edge>
+    <edge source="water" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000555467803928</data>
+    </edge>
+    <edge source="water" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00118474968822</data>
+    </edge>
+    <edge source="water" target="distribution">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00110606330542</data>
+    </edge>
+    <edge source="water" target="root">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000652872110778</data>
+    </edge>
+    <edge source="water" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00110309400796</data>
+    </edge>
+    <edge source="flowering" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000572921778388</data>
+    </edge>
+    <edge source="flowering" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000603592109137</data>
+    </edge>
+    <edge source="flowering" target="range">
+      <data key="topics">[15]</data>
+      <data key="weight">0.00052139562273</data>
+    </edge>
+    <edge source="flowering" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000510354303661</data>
+    </edge>
+    <edge source="great" target="work">
+      <data key="topics">[1]</data>
+      <data key="weight">0.000532604441835</data>
+    </edge>
+    <edge source="great" target="important">
+      <data key="topics">[1]</data>
+      <data key="weight">0.000575408472752</data>
+    </edge>
+    <edge source="leaves" target="development">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000537039962091</data>
+    </edge>
+    <edge source="leaves" target="plant">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000539672510925</data>
+    </edge>
+    <edge source="leaves" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000544937608593</data>
+    </edge>
+    <edge source="leaves" target="root">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000642341915443</data>
+    </edge>
+    <edge source="british" target="flora">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000611442942471</data>
+    </edge>
+    <edge source="british" target="north">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000611442942471</data>
+    </edge>
+    <edge source="british" target="spruce">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00113171958504</data>
+    </edge>
+    <edge source="british" target="white">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000853505187048</data>
+    </edge>
+    <edge source="british" target="species">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00101697579378</data>
+    </edge>
+    <edge source="range" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000591323976838</data>
+    </edge>
+    <edge source="range" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000621994307587</data>
+    </edge>
+    <edge source="range" target="coastal">
+      <data key="topics">[15]</data>
+      <data key="weight">0.00052875650211</data>
+    </edge>
+    <edge source="seeds" target="temperature">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000501347447134</data>
+    </edge>
+    <edge source="seeds" target="populations">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000697394935541</data>
+    </edge>
+    <edge source="seeds" target="growing">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000521377066693</data>
+    </edge>
+    <edge source="seeds" target="seed">
+      <data key="topics">[19]</data>
+      <data key="weight">0.00055354584962</data>
+    </edge>
+    <edge source="seeds" target="population">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000575396343684</data>
+    </edge>
+    <edge source="genus" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000743222187597</data>
+    </edge>
+    <edge source="genus" target="numbers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000511062636335</data>
+    </edge>
+    <edge source="genus" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000514178871923</data>
+    </edge>
+    <edge source="genus" target="flowers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000506388282954</data>
+    </edge>
+    <edge source="genus" target="species">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000847616079776</data>
+    </edge>
+    <edge source="genus" target="chromosome">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000635712059832</data>
+    </edge>
+    <edge source="studies" target="botany">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000613071756051</data>
+    </edge>
+    <edge source="studies" target="plant">
+      <data key="topics">[10, 12]</data>
+      <data key="weight">0.00207320101668</data>
+    </edge>
+    <edge source="studies" target="classification">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000594413050432</data>
+    </edge>
+    <edge source="studies" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00142416094015</data>
+    </edge>
+    <edge source="studies" target="community">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000662284633005</data>
+    </edge>
+    <edge source="studies" target="tropical">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000948610696146</data>
+    </edge>
+    <edge source="studies" target="ecologists">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000636141818544</data>
+    </edge>
+    <edge source="studies" target="forest">
+      <data key="topics">[10]</data>
+      <data key="weight">0.0010955084155</data>
+    </edge>
+    <edge source="studies" target="species">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000764366098994</data>
+    </edge>
+    <edge source="studies" target="vegetation">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000679713175978</data>
+    </edge>
+    <edge source="studies" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000626399402921</data>
+    </edge>
+    <edge source="south" target="distribution">
+      <data key="topics">[3]</data>
+      <data key="weight">0.000705535115029</data>
+    </edge>
+    <edge source="south" target="subsp">
+      <data key="topics">[3]</data>
+      <data key="weight">0.00070048113856</data>
+    </edge>
+    <edge source="botany" target="classification">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000557095639194</data>
+    </edge>
+    <edge source="botany" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000970252692185</data>
+    </edge>
+    <edge source="botany" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000589081991684</data>
+    </edge>
+    <edge source="characters" target="plant">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000623078530281</data>
+    </edge>
+    <edge source="characters" target="populations">
+      <data key="topics">[4]</data>
+      <data key="weight">0.00124317225323</data>
+    </edge>
+    <edge source="characters" target="differences">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000696206309883</data>
+    </edge>
+    <edge source="characters" target="variation">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000532041906695</data>
+    </edge>
+    <edge source="characters" target="population">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000793958749963</data>
+    </edge>
+    <edge source="classification" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000951593986566</data>
+    </edge>
+    <edge source="classification" target="history">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000570423286065</data>
+    </edge>
+    <edge source="number" target="plants">
+      <data key="topics">[5]</data>
+      <data key="weight">0.00105195867853</data>
+    </edge>
+    <edge source="number" target="species">
+      <data key="topics">[5]</data>
+      <data key="weight">0.0023504142375</data>
+    </edge>
+    <edge source="community" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00097350861468</data>
+    </edge>
+    <edge source="community" target="ecologists">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000544019519968</data>
+    </edge>
+    <edge source="community" target="tropical">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00085648839757</data>
+    </edge>
+    <edge source="community" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00133203864157</data>
+    </edge>
+    <edge source="community" target="forest">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00100338611692</data>
+    </edge>
+    <edge source="community" target="species">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000672243800418</data>
+    </edge>
+    <edge source="community" target="vegetation">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000587590877403</data>
+    </edge>
+    <edge source="coastal" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000580282657768</data>
+    </edge>
+    <edge source="coastal" target="sample">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000610952988517</data>
+    </edge>
+    <edge source="cultivated" target="ecotype">
+      <data key="topics">[9]</data>
+      <data key="weight">0.000541412985739</data>
+    </edge>
+    <edge source="temperature" target="plants">
+      <data key="topics">[8]</data>
+      <data key="weight">0.00122823984526</data>
+    </edge>
+    <edge source="temperature" target="populations">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000696181019204</data>
+    </edge>
+    <edge source="temperature" target="light">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000868794326241</data>
+    </edge>
+    <edge source="temperature" target="seed">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000552331933283</data>
+    </edge>
+    <edge source="temperature" target="temperatures">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000976789168279</data>
+    </edge>
+    <edge source="temperature" target="growing">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000520163150356</data>
+    </edge>
+    <edge source="temperature" target="rates">
+      <data key="topics">[8]</data>
+      <data key="weight">0.00106544165055</data>
+    </edge>
+    <edge source="temperature" target="population">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000574182427347</data>
+    </edge>
+    <edge source="genetic" target="reproductive">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00114083672972</data>
+    </edge>
+    <edge source="genetic" target="populations">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00134113630822</data>
+    </edge>
+    <edge source="genetic" target="variation">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00103720346954</data>
+    </edge>
+    <edge source="genetic" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00111383983001</data>
+    </edge>
+    <edge source="genetic" target="population">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00135507019194</data>
+    </edge>
+    <edge source="erect" target="plants">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00149356495948</data>
+    </edge>
+    <edge source="erect" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000615698321064</data>
+    </edge>
+    <edge source="erect" target="populations">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000623642815529</data>
+    </edge>
+    <edge source="erect" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000620994650707</data>
+    </edge>
+    <edge source="erect" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000528308881945</data>
+    </edge>
+    <edge source="tropical" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00125983467782</data>
+    </edge>
+    <edge source="tropical" target="ecologists">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000830345583109</data>
+    </edge>
+    <edge source="tropical" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00161836470471</data>
+    </edge>
+    <edge source="tropical" target="forest">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00128971218006</data>
+    </edge>
+    <edge source="tropical" target="species">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000958569863559</data>
+    </edge>
+    <edge source="tropical" target="vegetation">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000873916940544</data>
+    </edge>
+    <edge source="ecologists" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000947365800219</data>
+    </edge>
+    <edge source="ecologists" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00130589582711</data>
+    </edge>
+    <edge source="ecologists" target="forest">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00097724330246</data>
+    </edge>
+    <edge source="ecologists" target="species">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000646100985958</data>
+    </edge>
+    <edge source="ecologists" target="vegetation">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000561448062942</data>
+    </edge>
+    <edge source="rates" target="plants">
+      <data key="topics">[8]</data>
+      <data key="weight">0.00106866537718</data>
+    </edge>
+    <edge source="rates" target="light">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000709219858156</data>
+    </edge>
+    <edge source="rates" target="temperatures">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000817214700193</data>
+    </edge>
+    <edge source="subsp" target="distribution">
+      <data key="topics">[3]</data>
+      <data key="weight">0.000583228884486</data>
+    </edge>
+    <edge source="white" target="flora">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000779629047469</data>
+    </edge>
+    <edge source="white" target="north">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000779629047469</data>
+    </edge>
+    <edge source="white" target="spruce">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00129990569003</data>
+    </edge>
+    <edge source="white" target="species">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00118516189877</data>
+    </edge>
+    <edge source="john" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000518788558609</data>
+    </edge>
+    <edge source="john" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000681270825773</data>
+    </edge>
+    <edge source="john" target="room">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000524562040183</data>
+    </edge>
+    <edge source="north" target="flora">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000537566802892</data>
+    </edge>
+    <edge source="north" target="spruce">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00105784344546</data>
+    </edge>
+    <edge source="north" target="species">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000943099654197</data>
+    </edge>
+    <edge source="populations" target="plant">
+      <data key="topics">[4, 17]</data>
+      <data key="weight">0.00207644122875</data>
+    </edge>
+    <edge source="populations" target="differences">
+      <data key="topics">[4]</data>
+      <data key="weight">0.00140808285825</data>
+    </edge>
+    <edge source="populations" target="variation">
+      <data key="topics">[0, 4]</data>
+      <data key="weight">0.00214526655831</data>
+    </edge>
+    <edge source="populations" target="seed">
+      <data key="topics">[19]</data>
+      <data key="weight">0.00074837942169</data>
+    </edge>
+    <edge source="populations" target="population">
+      <data key="topics">[0, 4, 19]</data>
+      <data key="weight">0.00349528003974</data>
+    </edge>
+    <edge source="populations" target="plants">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00161405645887</data>
+    </edge>
+    <edge source="populations" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000736189820454</data>
+    </edge>
+    <edge source="populations" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00097798446372</data>
+    </edge>
+    <edge source="populations" target="reproductive">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00100498136343</data>
+    </edge>
+    <edge source="populations" target="growing">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000716210638763</data>
+    </edge>
+    <edge source="populations" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000648800381336</data>
+    </edge>
+    <edge source="differences" target="plant">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000787989135301</data>
+    </edge>
+    <edge source="differences" target="variation">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000696952511715</data>
+    </edge>
+    <edge source="differences" target="population">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000958869354983</data>
+    </edge>
+    <edge source="flowers" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000744780305391</data>
+    </edge>
+    <edge source="flowers" target="numbers">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000512620754129</data>
+    </edge>
+    <edge source="flowers" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000515736989716</data>
+    </edge>
+    <edge source="flowers" target="species">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000849174197569</data>
+    </edge>
+    <edge source="flowers" target="chromosome">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000637270177625</data>
+    </edge>
+    <edge source="population" target="reproductive">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00101891524715</data>
+    </edge>
+    <edge source="population" target="variation">
+      <data key="topics">[0, 4]</data>
+      <data key="weight">0.00170998693877</data>
+    </edge>
+    <edge source="population" target="plant">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000885741575381</data>
+    </edge>
+    <edge source="population" target="seed">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000626380829833</data>
+    </edge>
+    <edge source="population" target="growing">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000594212046906</data>
+    </edge>
+    <edge source="population" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000991918347441</data>
+    </edge>
+    <edge source="plants" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.0014193241879</data>
+    </edge>
+    <edge source="plants" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00088633529307</data>
+    </edge>
+    <edge source="plants" target="species">
+      <data key="topics">[5]</data>
+      <data key="weight">0.0026997033855</data>
+    </edge>
+    <edge source="plants" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000804679612804</data>
+    </edge>
+    <edge source="plants" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00161140829405</data>
+    </edge>
+    <edge source="plants" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00160611196441</data>
+    </edge>
+    <edge source="plants" target="light">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000872018052869</data>
+    </edge>
+    <edge source="plants" target="temperatures">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000980012894907</data>
+    </edge>
+    <edge source="plants" target="distribution">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000807648910268</data>
+    </edge>
+    <edge source="plants" target="prostrate">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00151872252529</data>
+    </edge>
+    <edge source="flora" target="spruce">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00105784344546</data>
+    </edge>
+    <edge source="flora" target="species">
+      <data key="topics">[6]</data>
+      <data key="weight">0.000943099654197</data>
+    </edge>
+    <edge source="room" target="american">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000684569958101</data>
+    </edge>
+    <edge source="room" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000522087690937</data>
+    </edge>
+    <edge source="reproductive" target="variation">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00070104852475</data>
+    </edge>
+    <edge source="reproductive" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.00077768488522</data>
+    </edge>
+    <edge source="science" target="book">
+      <data key="topics">[18]</data>
+      <data key="weight">0.000861498833931</data>
+    </edge>
+    <edge source="work" target="important">
+      <data key="topics">[1]</data>
+      <data key="weight">0.000574796986596</data>
+    </edge>
+    <edge source="temperatures" target="light">
+      <data key="topics">[8]</data>
+      <data key="weight">0.000620567375887</data>
+    </edge>
+    <edge source="growing" target="seed">
+      <data key="topics">[19]</data>
+      <data key="weight">0.000572361552842</data>
+    </edge>
+    <edge source="distribution" target="soil">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00135103034622</data>
+    </edge>
+    <edge source="distribution" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000818041451393</data>
+    </edge>
+    <edge source="distribution" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000736385771127</data>
+    </edge>
+    <edge source="prostrate" target="plant">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000646152216514</data>
+    </edge>
+    <edge source="prostrate" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.00064085588687</data>
+    </edge>
+    <edge source="root" target="development">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000631811720107</data>
+    </edge>
+    <edge source="root" target="plant">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000634444268941</data>
+    </edge>
+    <edge source="root" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000639709366609</data>
+    </edge>
+    <edge source="history" target="plant">
+      <data key="topics">[12]</data>
+      <data key="weight">0.000983580339055</data>
+    </edge>
+    <edge source="soil" target="soils">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00142971672902</data>
+    </edge>
+    <edge source="soil" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.00134806104876</data>
+    </edge>
+    <edge source="sample" target="variation">
+      <data key="topics">[15]</data>
+      <data key="weight">0.000673520463245</data>
+    </edge>
+    <edge source="soils" target="vegetation">
+      <data key="topics">[16]</data>
+      <data key="weight">0.000815072153928</data>
+    </edge>
+    <edge source="numbers" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000749454658772</data>
+    </edge>
+    <edge source="numbers" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000520411343098</data>
+    </edge>
+    <edge source="numbers" target="species">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00085384855095</data>
+    </edge>
+    <edge source="numbers" target="chromosome">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000641944531007</data>
+    </edge>
+    <edge source="spruce" target="species">
+      <data key="topics">[6]</data>
+      <data key="weight">0.00146337629676</data>
+    </edge>
+    <edge source="species" target="chromosome">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000978497974447</data>
+    </edge>
+    <edge source="species" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00108600810221</data>
+    </edge>
+    <edge source="species" target="types">
+      <data key="topics">[14]</data>
+      <data key="weight">0.0010776468696</data>
+    </edge>
+    <edge source="species" target="vegetation">
+      <data key="topics">[10, 14]</data>
+      <data key="weight">0.00193921997297</data>
+    </edge>
+    <edge source="species" target="forest">
+      <data key="topics">[10, 14]</data>
+      <data key="weight">0.00231782031121</data>
+    </edge>
+    <edge source="species" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00107559008067</data>
+    </edge>
+    <edge source="species" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00143412010756</data>
+    </edge>
+    <edge source="species" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000856964786538</data>
+    </edge>
+    <edge source="chromosome" target="jour">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000874104082269</data>
+    </edge>
+    <edge source="chromosome" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.000645060766594</data>
+    </edge>
+    <edge source="jour" target="lolium">
+      <data key="topics">[13]</data>
+      <data key="weight">0.00075257089436</data>
+    </edge>
+    <edge source="american" target="william">
+      <data key="topics">[7]</data>
+      <data key="weight">0.000678796476527</data>
+    </edge>
+    <edge source="forest" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00140673239717</data>
+    </edge>
+    <edge source="forest" target="vegetation">
+      <data key="topics">[10, 14]</data>
+      <data key="weight">0.00189439220624</data>
+    </edge>
+    <edge source="forest" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00176526242406</data>
+    </edge>
+    <edge source="forest" target="types">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000701676786361</data>
+    </edge>
+    <edge source="vegetation" target="types">
+      <data key="topics">[14]</data>
+      <data key="weight">0.000738871687643</data>
+    </edge>
+    <edge source="vegetation" target="plant">
+      <data key="topics">[10]</data>
+      <data key="weight">0.000990937157654</data>
+    </edge>
+    <edge source="vegetation" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00134946718454</data>
+    </edge>
+    <edge source="development" target="plant">
+      <data key="topics">[11]</data>
+      <data key="weight">0.00052914231559</data>
+    </edge>
+    <edge source="development" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000534407413258</data>
+    </edge>
+    <edge source="plant" target="lawn">
+      <data key="topics">[17]</data>
+      <data key="weight">0.000733541655633</data>
+    </edge>
+    <edge source="plant" target="variation">
+      <data key="topics">[4]</data>
+      <data key="weight">0.000623824732114</data>
+    </edge>
+    <edge source="plant" target="effect">
+      <data key="topics">[11]</data>
+      <data key="weight">0.000537039962091</data>
+    </edge>
+    <edge source="plant" target="ecological">
+      <data key="topics">[10]</data>
+      <data key="weight">0.00173538492182</data>
+    </edge>
+    <edge source="variation" target="gene">
+      <data key="topics">[0]</data>
+      <data key="weight">0.000674051625039</data>
+    </edge>
+  </graph>
+</graphml>
